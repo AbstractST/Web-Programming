@@ -1,0 +1,17 @@
+/*.navbar-inverse {*/
+	/*background-color: #343c94;*/
+/*}*/
+
+.author {
+	display: inline-block;
+	float: left;
+    margin-top: 10%;
+}
+
+.first-name {
+    background-color: blue;
+}
+
+.last-name {
+	background-color: red;
+}
