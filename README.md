@@ -1,2 +1,2 @@
 # Web-Programming
-php project
+CMS for Discography w/ PHP
